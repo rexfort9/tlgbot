@@ -22,5 +22,4 @@ Bot based on a classic "[to do script]()".<br>
   >>> simple /help list 
 BOT IS UNDER CONSTRUCTION (v.0.1.#beta)<br>
 ----
-https://www.freepik.com/free-vector/construction-concept-illustration_9233841.htm[https://www.freepik.com/free-vector/construction-concept-illustration_9233841.htm](https://www.freepik.com/free-vector/construction-concept-illustration_9233841.htm).<br>
-! [baidu] (http://www.baidu.com/img/bdlogo.gif "Логотип Baidu")
+
