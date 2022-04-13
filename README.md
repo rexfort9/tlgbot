@@ -1,4 +1,4 @@
-Telegram bot for cyberclub [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/CyberbonchBot)
+Telegram bot for cyberclub [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"/>](https://t.me/CyberbonchBot)
 ====
 Bot description
 ----
