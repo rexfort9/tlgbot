@@ -8,7 +8,7 @@ Bot based on a classic "[to do script]()".<br>
   >>> send greetings;<br>
   >>> feedback politely;<br>
   >>> keep up simple conversation;<br>
-  
+>  
 >> BOOK TIME SLOTS
   >>>make reservations using SQL database;<br>
   >>> provide list of free time slots & tables;<br>
