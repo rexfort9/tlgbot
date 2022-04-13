@@ -9,17 +9,17 @@ Bot based on a classic "[to do script]()".<br>
 > It's main features are:
 >> communication with the user
   >>> send greetings;<br>
-  >>> feedback politely;
-  >>> keep up simple conversation;
+  >>> feedback politely;<br>
+  >>> keep up simple conversation;<br>
   
 >> book time slots
-  >>>make reservations using SQL database;
-  >>> provide list of free time slots & tables;
-  >>> allows to cancel booking; 
+  >>>make reservations using SQL database;<br>
+  >>> provide list of free time slots & tables;<br>
+  >>> allows to cancel booking;<br>
   
 >> send reminding notifications
-  >>> one hour before the event (while booking is active);
-  >>> suggests to make a reservation over time (while booking list is empty);
+  >>> one hour before the event (while booking is active);<br>
+  >>> suggests to make a reservation over time (while booking list is empty);<br>
   
 >> info-menu 
   >>> simple /help list 
