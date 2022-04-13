@@ -3,6 +3,8 @@ Telegram bot for cyberclub [<img src="https://img.shields.io/badge/Telegram-2CA5
 Bot description
 ----
 Bot based on a classic "[to do script]()".<br>
+Works with [Pythonanywhere](https://www.pythonanywhere.com) in demo mode. <br>
+Created with [BotFather](https://t.me/BotFather). <br>
 > It's main features are:
 >> COMMUNICATION WITH THE USER
   >>> send greetings;<br>
