@@ -13,11 +13,11 @@ Bot based on a classic "[to do script]()".<br>
   >>>make reservations using SQL database;<br>
   >>> provide list of free time slots & tables;<br>
   >>> allows to cancel booking;<br>
-  
+>  
 >> SEND REMINDING NOTIFICATIONS
   >>> one hour before the event (while booking is active);<br>
   >>> suggests to make a reservation over time (while booking list is empty);<br>
-  
+>
 >> INFO-MENU 
   >>> simple /help list 
 
