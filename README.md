@@ -21,6 +21,6 @@ Bot based on a classic "[to do script]()".<br>
 >> INFO-MENU 
   >>> simple /help list 
 
-BOT IS UNDER CONSTRUCTION (v.0.1.#beta)<br>
+'BOT IS UNDER CONSTRUCTION (v.0.1.#beta)'<br>
 ----
 ![on_process](https://github.com/rexfort9/tlgbot/blob/main/4120164.jpg)
