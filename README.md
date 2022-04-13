@@ -7,21 +7,21 @@ Bot description
 ----
 Bot based on a classic "[to do script]()".<br>
 > It's main features are:
->> communication with the user
+>> COMMUNICATION WITH THE USER
   >>> send greetings;<br>
   >>> feedback politely;<br>
   >>> keep up simple conversation;<br>
   
->> book time slots
+>> BOOK TIME SLOTS
   >>>make reservations using SQL database;<br>
   >>> provide list of free time slots & tables;<br>
   >>> allows to cancel booking;<br>
   
->> send reminding notifications
+>> SEND REMINDING NOTIFICATIONS
   >>> one hour before the event (while booking is active);<br>
   >>> suggests to make a reservation over time (while booking list is empty);<br>
   
->> info-menu 
+>> INFO-MENU 
   >>> simple /help list 
 
 BOT IS UNDER CONSTRUCTION (v.0.1.#beta)<br>
