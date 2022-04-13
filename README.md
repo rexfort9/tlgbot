@@ -20,6 +20,7 @@ Bot based on a classic "[to do script]()".<br>
   >>> suggests to make a reservation over time (while booking list is empty);
  >> info-menu 
   >>> simple /help list 
+
 BOT IS UNDER CONSTRUCTION (v.0.1.#beta)<br>
 ----
 
