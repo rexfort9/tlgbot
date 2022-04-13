@@ -8,7 +8,7 @@ Bot description
 Bot based on a classic "[to do script]()".<br>
 > It's main features are:
 >> communication with the user
-  >>> send greetings;
+  >>> send greetings;<br>
   >>> feedback politely;
   >>> keep up simple conversation;
   
