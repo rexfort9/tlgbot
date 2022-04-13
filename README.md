@@ -1,10 +1,14 @@
 Telegram bot for cyberclub [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"/>](https://t.me/CyberbonchBot)
 ====
-Bot description
+Origins
 ----
 Bot based on a classic "[to do script]()".<br>
 Works with [Pythonanywhere](https://www.pythonanywhere.com) in demo mode. <br>
 Created with [BotFather](https://t.me/BotFather). <br>
+Uses [#import telebot](https://pypi.org/project/pyTelegramBotAPI/) API, <br>
+
+Bot description
+----
 > It's main features are:
 >> COMMUNICATION WITH THE USER
   >>> send greetings;<br>
